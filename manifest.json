@@ -1,0 +1,20 @@
+{
+  "name": "CaliToday News",
+  "short_name": "CaliToday.net",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjLpI8HwrSURTLqpdesEk3ehOI_OmkryRsbbew8HLNlJSNx-9z6Q2wH57EBtym5RgfOPEass2XHYoxGGcgPZAIJo8KD9EVRV5shgj6tvKgUk1qvw13ks2RRA31ogNdeBYJNh8UaS36Z4aZ6TnN7yBivBA1qKf4__D6tfjDTNZZp97FkeCQ8ibjqFOrMLaQ/s1600-rw/cl-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5A-sFazqGtB1YGzSeu3K233uhAE5ugVErhfUFDoFtFv1ZG5Aoensxf61T91xch-7JA3RIqkH6lPkTR0FXfq-CL7Fkerd9frPKRrul3jrvns-l35Swf7-qimhzB28Q2ER6143_cQeGpU38XjCwf2YeOrlvzimyiinfo1Nxw4D1f0_9E94sNucVagHjYMck/s320-rw/cl-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
